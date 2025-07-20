@@ -35,6 +35,8 @@ make
 
 Go to the main directory
 
+Do change the Makefile where i have CXX as clang++ to g++ (whichever one you have)
+
 ```bash
 make
 ```
