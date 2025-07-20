@@ -1,0 +1,14 @@
+# ignore build artifacts
+*.o
+*.out
+*.exe
+assh
+build/
+
+# ignore editor stuff
+*.swp
+*.swo
+*.DS_Store
+
+# ignore libs with separate git history
+libtommath/.git
