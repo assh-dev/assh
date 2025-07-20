@@ -26,7 +26,14 @@ Basically, you can run a server and client and send encrypted messages
 
 ## How to build
 
-Clone the repo, `cd` into it, then:
+Clone the libtommath repo in the project directory and build it
+```bash
+git clone https://github.com/libtom/libtommath.git
+cd libtommath
+make
+```
+
+Go to the main directory
 
 ```bash
 make
